@@ -1,8 +1,5 @@
-Sure, here's an expanded and clearer version of your README:
-
----
-
 ## QR Code Generator Script
+---
 
 This script is designed to create a QR code image from a provided link.
 
@@ -51,11 +48,9 @@ Follow these steps to set up and run the script:
 Here's an example of how you can use the script:
 
 ```bash
-python generate_qr_code.py
+python main.py
 ```
 
-Replace `generate_qr_code.py` with the actual name of your script. Once executed, the script will prompt you to enter the link for which you want to generate the QR code and the desired file name for the generated QR code image.
+Replace `main.py` with the actual name of your script. Once executed, the script will prompt you to enter the link for which you want to generate the QR code and the desired file name for the generated QR code image.
 
 ---
-
-Feel free to customize this README further to match your project's specifics!
